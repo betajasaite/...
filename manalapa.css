@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(241, 206, 160);
+}
+.my-header{
+    background-color: rgb(91, 194, 159);
+    height: 100px;
+    border: 2px solid;
+}
